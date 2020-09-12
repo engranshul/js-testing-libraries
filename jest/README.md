@@ -1,10 +1,10 @@
-## refer below link to write snapshots test
+## Refer below links to write snapshots test using jest
  
  https://www.digitalocean.com/community/tutorials/how-to-write-snapshot-tests-for-react-components-with-jest
 
  https://jestjs.io/docs/en/snapshot-testing
 
-# My learning
+## My learnings :
 * created react project using npx command
 * created a dummy component
 * wrote some snapshot tests and provided component diff types of data from those tests
