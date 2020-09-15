@@ -21,9 +21,7 @@ exports[`renders correctly when there are no items 1`] = `
 `;
 
 exports[`renders correctly when there is a single item 1`] = `
-<span
-  class="ohh-dear-span"
->
+<span>
   one
 </span>
 `;
